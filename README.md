@@ -73,9 +73,8 @@ Currently strengthening my skills in **cybersecurity, networking, and cloud secu
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN
-- Portfolio / Projects: (optional)
-- Email: TU_EMAIL
+- LinkedIn: https://www.linkedin.com/in/ilan-luna/
+- Email: ilanlunamalespin02@gmail.com
 
 ---
 
